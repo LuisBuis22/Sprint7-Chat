@@ -160,9 +160,9 @@ Select the request type GET with the URL http://localhost:27017/ and click the s
 
 Then check the response to get sure the GET endpoint is working correctly.
 
-![alt text](images/Captura1.png)
+![alt text](./images/Captura1.png)
 
-![alt text](images/Captura2.png)
+![alt text](./images/Captura2.png)
 
 ### Chat operation
 
