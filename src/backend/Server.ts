@@ -40,7 +40,7 @@ export class Server {
     );
 
     // Configuración para servir archivos estáticos
-    this.express.use(express.static(path.join(__dirname, "../../client")));
+    this.express.use(express.static(path.join(__dirname, "../../dist/client")));
 
     this.express.use(cors({ origin: "*" }));
     this.express.use(json());
